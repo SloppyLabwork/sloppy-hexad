@@ -19,7 +19,9 @@ const validateDecks = (decksBlob) => {
       return acc
     }, {})
   )
-  return uniqueDeckIds.length === 6 && uniqueDeckIds
+  return (
+    (uniqueDeckIds.length === 6 || uniqueDeckIds.length === 4) && uniqueDeckIds
+  )
 }
 
 function NameAndDecksForm(props) {
