@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sloppy-hexad/static/css/main.95ab4fb5.css",
-    "main.js": "/sloppy-hexad/static/js/main.7629e3f9.js",
+    "main.js": "/sloppy-hexad/static/js/main.95aca308.js",
     "static/media/skyborn.png": "/sloppy-hexad/static/media/skyborn.4b7cc52ba609ea2f7226.png",
     "static/media/saurian.png": "/sloppy-hexad/static/media/saurian.f9bf41ab44a3007622e5.png",
     "static/media/brobnar.png": "/sloppy-hexad/static/media/brobnar.6102a18bd7b2be4b01f2.png",
@@ -18,10 +18,10 @@
     "static/media/redemption.png": "/sloppy-hexad/static/media/redemption.768cb0d4ff3973c11667.png",
     "index.html": "/sloppy-hexad/index.html",
     "main.95ab4fb5.css.map": "/sloppy-hexad/static/css/main.95ab4fb5.css.map",
-    "main.7629e3f9.js.map": "/sloppy-hexad/static/js/main.7629e3f9.js.map"
+    "main.95aca308.js.map": "/sloppy-hexad/static/js/main.95aca308.js.map"
   },
   "entrypoints": [
     "static/css/main.95ab4fb5.css",
-    "static/js/main.7629e3f9.js"
+    "static/js/main.95aca308.js"
   ]
 }
